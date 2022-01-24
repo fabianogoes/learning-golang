@@ -1,5 +1,5 @@
 # Tutoriais
-Voltar para: [Links](../README.md)
+Voltar para: [Home](../../README.md)
 
 ## [Practical Go Lessons](https://www.practical-go-lessons.com/)
 
