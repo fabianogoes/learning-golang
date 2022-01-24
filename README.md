@@ -12,10 +12,12 @@ Estou iniando meus estudos com a linguagem Go no inicio de 2022 e resolvi usar e
     - [Porque utilizar o Gin Web Framework?](#porque-utilizar-o-gin-web-framework)
     - [Porque utilizar o GORM?](#porque-utilizar-o-gorm)
   - [Links](#links)
-    - [Leitura adicional](#leitura-adicional)
+    - [Tutoriais](#tutoriais)
+    - [Cursos e tutoriais em vídeo _Gratuitos_](#cursos-e-tutoriais-em-vídeo-gratuitos)
+    - [Livros](#livros)
+    - [Framworks e bibliotecas](#framworks-e-bibliotecas)
+    - [Diversos](#diversos)
 
-
----
 
 <img src="./assets/golang-persona.png" height="50" width="50" align="right"> 
 
@@ -34,7 +36,6 @@ Estou iniando meus estudos com a linguagem Go no inicio de 2022 e resolvi usar e
 * [**FAQ**](#FAQ): answers to some of the most frequently asked questions regarding _Go Web Development_
 * [**Links**](#links): links to related reference material and projects that use _Go Web Development_
 
----
 
 <img src="./assets/gopher-coder.png" height="50" width="50" align="right"> 
 
@@ -45,7 +46,6 @@ Abordagem prática para aprender o _Go em Desenvolvimento Web_
 1. [**Prerequisites**](./labs/01-prereqs/): como instalar os pré-requisitos necessários para executar os exemplos neste repositório
 2. [**Hello world**](./labas/02-hello-world/): um exemplo simples usando Go para _Desenvolvimento Web_
 
----
 
 <img src="./assets/gopher-coffee.png" height="50" width="50" align="right"> 
 
@@ -56,21 +56,22 @@ Respostas para algumas das perguntas mais frequentes sobre _Go para Desenvolvime
 * [Porque utilizar o Gin Web Framework?](#porque-utilizar-o-gin-web-framework)   
 * [Porque utilizar o GORM?](#porque-utilizar-o-gorm)   
 
-
 ### Porque utilizar o Gin Web Framework?
 ???
 
 ### Porque utilizar o GORM?
 ???
 
----
-
 <img src="./assets/gopher-tool.png" height="50" width="50" align="right"> 
 
 ## Links
 
-### Leitura adicional
+### [Tutoriais](./links/tutorials/)   
 
-* [Tutoriais](./links/tutorials/)
-* [Cursos e tutoriais em vídeo _Gratuitos_](./links/free-videos-references/)
-* [Livros](./books/)
+### [Cursos e tutoriais em vídeo _Gratuitos_](./links/free-videos-references/)   
+
+### [Livros](./link/books/)   
+
+### [Framworks e bibliotecas](./links/frameworks-and-libraries/)
+
+### [Diversos](./links/miscellaneous/)
