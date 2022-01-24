@@ -25,7 +25,7 @@ Estou iniando meus estudos com a linguagem Go no inicio de 2022 e resolvi usar e
 
 - [ ]  Estudo de conceitos básicos da linguagem usando o Curso no Youtube → [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
 - [ ]  Implementar CRUD API com dados estáticos usando → **[Gin Web Framework](https://github.com/gin-gonic/gin)**
-- [ ]  Refactoring para Arquitetura Hexagonal usando Dependence Injection com → **[Wire: Automated Initialization in Go](https://github.com/google/wire)**
+- [ ]  Refactoring para Arquitetura Hexagonal usando Dependence Injection com → **[Wire](https://github.com/google/wire)**
 - [ ]  Implementar Persistencia usando → **[GORM](https://gorm.io/)**
 - [ ]  Implementar Swagger Documentation com → [Swag](https://github.com/swaggo/swag)
 - [ ]  Implementar Integração Assíncrona com Kafka usando → **[gogen-avro](https://github.com/actgardner/gogen-avro)**
