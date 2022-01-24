@@ -114,8 +114,8 @@ Os criadores do Go concentraram seus esforços em várias escolhas críticas de 
 
 ### [Cursos e tutoriais em vídeo _Gratuitos_](./links/free-videos-references/)   
 
-### [Livros](./link/books/)   
+### [Livros](./links/books/)   
 
-### [Framworks e bibliotecas](./links/frameworks-and-libraries/)
+### [Framworks e bibliotecas](./links/frameworks-and-libraries/)   
 
 ### [Diversos](./links/miscellaneous/)
