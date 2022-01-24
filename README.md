@@ -23,7 +23,6 @@ Estou iniando meus estudos com a linguagem Go no inicio de 2022 e resolvi usar e
 
 ## Roteiro de Estudo
 
-- [ ]  Criar Roteiro de estudo
 - [ ]  Estudo de conceitos básicos da linguagem usando o Curso no Youtube → [Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
 - [ ]  Implementar CRUD API com dados estáticos usando → **[Gin Web Framework](https://github.com/gin-gonic/gin)**
 - [ ]  Refactoring para Arquitetura Hexagonal usando Dependence Injection com → **[Wire: Automated Initialization in Go](https://github.com/google/wire)**
@@ -32,9 +31,6 @@ Estou iniando meus estudos com a linguagem Go no inicio de 2022 e resolvi usar e
 - [ ]  Implementar Integração Assíncrona com Kafka usando → **[gogen-avro](https://github.com/actgardner/gogen-avro)**
 - [ ]  Implementar Autenticação JWT  usando → **[jwt-go](https://github.com/golang-jwt/jwt)**
 - [ ]  Criar um repositório no Github usando como exemplo → [este repositório](https://github.com/akutz/go-generics-the-hard-way#how-are-you-using-generics-in-the-go-playground)
-
-* [**FAQ**](#FAQ): answers to some of the most frequently asked questions regarding _Go Web Development_
-* [**Links**](#links): links to related reference material and projects that use _Go Web Development_
 
 
 <img src="./assets/gopher-coder.png" height="50" width="50" align="right"> 
