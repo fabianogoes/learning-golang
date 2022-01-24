@@ -1,6 +1,8 @@
 # Livros sobre Golang
 Voltar para: [Cursos e tutoriais em vídeo Gratuitos](../free-videos-references/README.md)
 
+![Gopher Books](../../assets/gopher-books.png)
+
 - [Livros sobre Golang](#livros-sobre-golang)
   - [Go em Ação](#go-em-ação)
   - [A Linguagem de Programação Go](#a-linguagem-de-programação-go)
