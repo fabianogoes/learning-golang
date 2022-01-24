@@ -8,6 +8,8 @@ Voltar para: [Cursos e tutoriais em vídeo Gratuitos](../free-videos-references/
 
 
 ## Go em Ação
+![Capa do livro](../../assets/book-go-in-action.jpg)
+
 [Compra na Amazon](https://www.amazon.com.br/Go-em-A%C3%A7%C3%A3o-William-Kennedy/dp/8575225065)
 
 **<u>Descrição</u>**
@@ -36,6 +38,7 @@ William Kennedy é um desenvolvedor de software experiente e autor do blog Goin 
 * Avaliações na amazon: 4,6 de 5 estrelas 
 
 ## A Linguagem de Programação Go
+![Capa do livro](../../assets/book-go-programming-language.jpg)
 
 **<u>Descrição</u>**   
 
@@ -60,6 +63,7 @@ Alan A. A. Donovan é membro da equipe de Go do Google em Nova York. Estudou ci�
 Ir para próximo: [Frameworks e bibliotecas](../frameworks-and-libraries/README.md)
 
 ## Programando em Go   
+![Capa do livro](../../assets/book-programming-in-go.jpeg)
 
 [Compra na casa do código](https://www.casadocodigo.com.br/products/livro-google-go?_pos=1&_sid=846dbd1e4&_ss=r)
 
