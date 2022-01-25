@@ -78,4 +78,6 @@ Você pode fazer isso adicionando a seguinte linha ao seu `$HOME/.profile` ou `/
 
 - [Configure seu ambiente de desenvolvimento](https://www.practical-go-lessons.com/chap-4-setup-your-dev-environment)
 
+---
+
 Ir para próximo: [Hello World Go](../02-hello-world/README.md)
