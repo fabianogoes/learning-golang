@@ -59,7 +59,8 @@ Go é uma linguagem de programação de código aberto mantida por sua comunidad
 Abordagem prática para aprender o _Go em Desenvolvimento Web_
 
 1. [**Prerequisites**](./labs/01-prereqs/): como instalar os pré-requisitos necessários para executar os exemplos neste repositório
-2. [**Hello world**](./labas/02-hello-world/): um exemplo simples usando Go para _Desenvolvimento Web_
+2. [**Hello world**](./labs/02-hello-world/README.md): um exemplo simples Hello World em Go
+3. [**Hello world**](./labs/03-hello-world-web/README.md): um exemplo simples usando Go para _Desenvolvimento Web_
 
 
 <img src="./assets/gopher-coffee.png" height="50" width="50" align="right"> 

@@ -1,5 +1,5 @@
 # Pré-requisitos
-Voltar para: [Labs](../README.md)
+Voltar para: [Home](../../README.md)
 
 Como instalar os pré-requisitos necessários para executar os exemplos neste repositório
 
