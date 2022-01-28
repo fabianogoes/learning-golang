@@ -60,7 +60,7 @@ Abordagem prática para aprender o _Go em Desenvolvimento Web_
 
 1. [**Prerequisites**](./labs/01-prereqs/): como instalar os pré-requisitos necessários para executar os exemplos neste repositório
 2. [**Hello world**](./labs/02-hello-world/README.md): um exemplo simples Hello World em Go
-3. [**POO**](./labs/03-oop/README.md)
+3. [**POO**](./labs/03-oop/README.md): um exemplo de um desafio com Orientação a Objetos com GO
 4. [**Hello world Go Web**](./labs/03-hello-world-web/README.md): um exemplo simples usando Go para _Desenvolvimento Web_
 
 
