@@ -33,6 +33,25 @@ Criar um programa de Banco.
 > - [x] Efeturar pagamento de Boletos que deve receber uma conta(interface) e o valor do boleto
 > - [x] Modularizar o código em camandas: app, usecase, domain, infra 
 
+
+## **<u>Features e convenções:</u>**
+
+* struct 
+* associar functions à struct (métodos)
+* functions/métodos com multiplos retornos error, valor
+* pacotes e vizibilidade
+* ponteiros e referencias
+* composição de struct
+* modularização
+
+![Challenge OOP](../assets/../../assets/challenge-oop.png)
+
+## Solução
+
+Veja o [Código](./src/)
+
+:exclamation: Disclamer - Apesar dos nomes das camadas fazerem uma referencia a Arquitetura Limpa ou Hexagonal, neste momento não foi usado ainda este conceito.
+
 ```
 .
 ├── app
@@ -57,23 +76,7 @@ Criar um programa de Banco.
 ```
 
 
-## **<u>Features e convenções:</u>**
 
-* struct 
-* associar functions à struct (métodos)
-* functions/métodos com multiplos retornos error, valor
-* pacotes e vizibilidade
-* ponteiros e referencias
-* composição de struct
-* modularização
-
-:exclamation: Disclamer - Apesar dos nomes das camadas fazerem uma referencia a Arquitetura Limpa ou Hexagonal, neste momento não foi usado ainda este conceito.
-
-![Challenge OOP](../assets/../../assets/challenge-oop.png)
-
-## Solução
-
-Veja o [Código](./src/)
 
 
 
