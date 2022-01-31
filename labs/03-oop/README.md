@@ -73,7 +73,7 @@ Criar um programa de Banco.
 
 ## Solução
 
-Veja o [Código](../src/)
+Veja o [Código](../)
 
 
 
