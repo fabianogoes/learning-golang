@@ -7,6 +7,7 @@
   - [Solução](#solução)
 
 ## Desafio
+![Challenge OOP](../assets/../../assets/challenge-oop.png)
 
 Desafio de Orientação a Objetos.   
 Criar um programa de Banco. 
@@ -43,8 +44,6 @@ Criar um programa de Banco.
 * ponteiros e referencias
 * composição de struct
 * modularização
-
-![Challenge OOP](../assets/../../assets/challenge-oop.png)
 
 ## Solução
 
