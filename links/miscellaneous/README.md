@@ -4,6 +4,7 @@ Voltar para: [Framworks e bibliotecas](../frameworks-and-libraries/README.md)
 - [Links Diversos](#links-diversos)
   - [Boas práticas](#boas-práticas)
   - [Ferramentas](#ferramentas)
+  - [Outros](#outros)
 
 ## Boas práticas
 
@@ -13,3 +14,7 @@ Voltar para: [Framworks e bibliotecas](../frameworks-and-libraries/README.md)
 ## Ferramentas
 
 * [Gopherize.me - A Gopher pic that's as unique as you](https://gopherize.me/)
+
+## Outros
+
+* [Repositório Github usando como exemplo](https://github.com/akutz/go-generics-the-hard-way#how-are-you-using-generics-in-the-go-playground)
