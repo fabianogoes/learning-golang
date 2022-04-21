@@ -1,0 +1,5 @@
+https://go.dev
+https://12factor.net
+https://www.practical-go-lessons.com
+https://gobyexample.com
+http://eprogramar.com.br

@@ -4,6 +4,7 @@ Voltar para: [Framworks e bibliotecas](../frameworks-and-libraries/README.md)
 - [Links Diversos](#links-diversos)
   - [Boas práticas](#boas-práticas)
   - [Ferramentas](#ferramentas)
+  - [Eventos](#eventos)
   - [Outros](#outros)
 
 ## Boas práticas
@@ -14,6 +15,10 @@ Voltar para: [Framworks e bibliotecas](../frameworks-and-libraries/README.md)
 ## Ferramentas
 
 * [Gopherize.me - A Gopher pic that's as unique as you](https://gopherize.me/)
+
+## Eventos 
+
+* [GopherCon](https://gopherconbr.org/)
 
 ## Outros
 
